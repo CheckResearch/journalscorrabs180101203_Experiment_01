@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>SteinkDaniel</dc:creator>
+  <dc:title>Experiment for "journals/corr/abs-1801-01203"</dc:title>
+  <dc:subject>Reproduction of the work in "Spectre Attacks: Exploiting Speculative Execution." by "Paul Kocher, Daniel Genkin, Daniel Gruss, Werner Haas, Mike Hamburg, Moritz Lipp, Stefan Mangard, Thomas Prescher 0002, Michael Schwarz 0001, Yuval Yarom"</dc:subject>
+  <dc:description>Tested concepts to execute specte attacks on different systems using intel core processors.</dc:description>
+  <dc:date>2019-03-26T23:39:29.6091739</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>https://checkresearch.org/Experiment/View/bd293391-5dc7-40a3-a62e-bee427171052</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearch/journalscorrabs180101203_Experiment_01</dc:identifier>
+  <dc:relation>journals/corr/abs-1801-01203</dc:relation>
+</metadata>
