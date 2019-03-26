@@ -1,0 +1,33 @@
+PS F:\Spectre_PoC> .\branch.exe
+trial#3125: guess='T' (score=48)
+trial#3466: guess='h' (score=60)
+trial#108390: guess='E' (score=92)
+trial#174854: guess='s' (score=48)
+trial#0: guess=' ' (score=44)
+trial#84624: guess='i' (score=44)
+trial#34614: guess='s' (score=52)
+trial#784: guess=' ' (score=40)
+trial#5176: guess='s' (score=48)
+trial#7605: guess='e' (score=48)
+trial#3: guess='c' (score=52)
+
+PS F:\Spectre_PoC> .\branch.exe
+trial#16288: guess='T' (score=52)
+trial#0: guess='h' (score=48)
+trial#0: guess='i' (score=48)
+trial#34635: guess='s' (score=56)
+trial#86507: guess='ù' (score=92)
+trial#40365: guess='i' (score=48)
+trial#9100: guess='s' (score=48)
+trial#912: guess=' ' (score=36)
+trial#0: guess='s' (score=48)
+trial#1: guess='e' (score=44)
+trial#18941: guess='c' (score=44)
+trial#6188: guess='r' (score=48)
+trial#1808: guess='e' (score=48)
+trial#32258: guess='t' (score=52)
+
+PS F:\Spectre_PoC>
+
+
+

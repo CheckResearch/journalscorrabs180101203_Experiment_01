@@ -1,0 +1,16 @@
+PS F:\Spectre_PoC> .\branch.exe
+trial#0: guess='T' (score=77)
+trial#0: guess='h' (score=65)
+trial#0: guess='i' (score=77)
+trial#0: guess='s' (score=75)
+trial#0: guess=' ' (score=40)
+trial#0: guess='i' (score=75)
+trial#0: guess='s' (score=75)
+trial#0: guess=' ' (score=41)
+trial#0: guess='s' (score=75)
+trial#0: guess='e' (score=71)
+trial#0: guess='c' (score=70)
+trial#0: guess='r' (score=70)
+trial#0: guess='e' (score=77)
+trial#0: guess='t' (score=67)
+PS F:\Spectre_PoC>
