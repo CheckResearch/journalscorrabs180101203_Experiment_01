@@ -2,34 +2,17 @@
 
  Publication ["Spectre Attacks: Exploiting Speculative Execution."](https://dblp.uni-trier.de/rec/html/journals/corr/abs-1801-01203) by "Paul Kocher, Daniel Genkin, Daniel Gruss, Werner Haas, Mike Hamburg, Moritz Lipp, Stefan Mangard, Thomas Prescher 0002, Michael Schwarz 0001, Yuval Yarom"
 
-## HOWTO
-
-Please put a complete documentation of the experiment in this file
-
-Use [Markdown](https://guides.github.com/features/mastering-markdown/)!
-
 ## Experiment Setup
 
 ### Experiment Content
 
-Which part of the original publication is reproduced
-
-### Hardware/Software
-
-Describe your Hardware & Software setup
-
-## Experiment Assumptions
-
-Make it explicit here if you made any assumptions in your experiment
-
-## Preconditions
-
-Something others need to prepare in order to run your code (e.g. libraries, python modules, ...)
+The experiment consists of executing and reproducing different concepts for conducting spectre attacks that have beed described in the paper. Especially variant1 of spectre attack has been described and tested in detail with the help of simple attacks written in C and JavaScript.
+Also a little PoC for exploiting indirect branches has been testet on several systems.
 
 ## Experiment Steps
 
-Describe each step of the experiment
+How the experiment has been performed is described in the attached paper in the result folder. 
 
 ## Results
 
-Describe your results
+Basically it can be said that I was able to understand and reproduce the main concepts that has been described in the paper on differnt systems using Intel processors. More details about the results can be found in the result folder
