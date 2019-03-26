@@ -1,4 +1,4 @@
-!include ..\common.inc
+!include common.inc
 
 TARGET=branch.exe
 
