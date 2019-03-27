@@ -1,0 +1,16 @@
+H:\Spectre_PoC\x86_64-8.1.0-win32-seh-rt_v6-rev0>spectre.out
+Reading 14 bytes:
+Reading at malicious_x = 0000000000000FC0... Success: 0x54='T' score=2
+Reading at malicious_x = 0000000000000FC1... Success: 0x68='h' score=2
+Reading at malicious_x = 0000000000000FC2... Success: 0x69='i' score=2
+Reading at malicious_x = 0000000000000FC3... Success: 0x73='s' score=2
+Reading at malicious_x = 0000000000000FC4... Success: 0x20=' ' score=2
+Reading at malicious_x = 0000000000000FC5... Success: 0x69='i' score=2
+Reading at malicious_x = 0000000000000FC6... Success: 0x73='s' score=2
+Reading at malicious_x = 0000000000000FC7... Success: 0x20=' ' score=2
+Reading at malicious_x = 0000000000000FC8... Success: 0x73='s' score=2
+Reading at malicious_x = 0000000000000FC9... Success: 0x65='e' score=2
+Reading at malicious_x = 0000000000000FCA... Success: 0x63='c' score=2
+Reading at malicious_x = 0000000000000FCB... Success: 0x72='r' score=2
+Reading at malicious_x = 0000000000000FCC... Success: 0x65='e' score=2
+Reading at malicious_x = 0000000000000FCD... Unclear: 0x74='t' score=999 (second best: 0x83='?' score=972)
